@@ -16,5 +16,5 @@ const chid = ""="IDI CHANNEL"
 
 # ❓ Support
 * [Discord Server Support](https://discord.gg/H4VwReSv3D)
-
+* [Discord Server Support 2](https://discord.gg/2cbAB58w)
 * `Create By shayan-rst46 `
